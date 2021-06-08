@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\WpfApp39\bin\Debug\WpfApp39.exe.config
+C:\Users\student\source\repos\WpfApp39\bin\Debug\WpfApp39.exe
+C:\Users\student\source\repos\WpfApp39\bin\Debug\WpfApp39.pdb
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WpfApp39\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\WpfApp39\obj\Debug\App.g.cs
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39_MarkupCompile.cache
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39_MarkupCompile.lref
+C:\Users\student\source\repos\WpfApp39\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.g.resources
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.Properties.Resources.resources
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.exe
+C:\Users\student\source\repos\WpfApp39\obj\Debug\WpfApp39.pdb

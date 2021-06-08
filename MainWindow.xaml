@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp39.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp39"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,105,0,0" TextWrapping="Wrap" Text="Напишите Почту" VerticalAlignment="Top"/>
+        <TextBox x:Name="FIO" HorizontalAlignment="Left" Height="23" Margin="10,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" PreviewTextInput="FIo_PreviewTextInput"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,56,0,0" TextWrapping="Wrap" Text="Напишите номер телефона" VerticalAlignment="Top"/>
+        <TextBox x:Name="Number" HorizontalAlignment="Left" Height="23" Margin="10,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" PreviewTextInput="Number_PreviewTextInput" Text="+"/>
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="23" Margin="10,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" TextChanged="Email_TextChanged" PreviewTextInput="Email_PreviewTextInput"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,10,0,0" Text="Напишите FIO&#xD;&#xA;"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,149,0,0" TextWrapping="Wrap" Text="Напишите СНИЛС" VerticalAlignment="Top"/>
+        <TextBox x:Name="Snils" HorizontalAlignment="Left" Height="23" Margin="10,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" PreviewTextInput="Snils_PreviewTextInput"/>
+        <Button Content="Проверка,Добавление" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top" Width="151" Click="Button_Click_1"/>
+        <Button Content="Удаление" HorizontalAlignment="Left" Margin="690,375,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="340" Margin="395,10,0,0" VerticalAlignment="Top" Width="391" SelectionChanged="listBox_SelectionChanged"/>
+
+    </Grid>
+</Window>
